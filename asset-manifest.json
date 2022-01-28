@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lection-9-react-router/static/css/main.eef32133.css",
+    "main.js": "/lection-9-react-router/static/js/main.9b9cad11.js",
+    "index.html": "/lection-9-react-router/index.html",
+    "main.eef32133.css.map": "/lection-9-react-router/static/css/main.eef32133.css.map",
+    "main.9b9cad11.js.map": "/lection-9-react-router/static/js/main.9b9cad11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eef32133.css",
+    "static/js/main.9b9cad11.js"
+  ]
+}

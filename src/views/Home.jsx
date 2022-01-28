@@ -1,0 +1,10 @@
+import Header from '../Components/Header';
+
+export default function Home() {
+  return (
+    <>
+      <Header title="Welcome to HP API" />
+      <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit cupiditate delectus tempora libero expedita? Necessitatibus, consequatur debitis eligendi maxime ipsa sit unde ullam tenetur assumenda velit ea repellat fugiat saepe accusantium? Quos dolore eaque, eos sed ut natus temporibus vitae aperiam voluptate modi pariatur ullam, similique sit ex suscipit illum rerum in ipsa harum nemo illo unde repellendus alias. Eveniet, quis dolorem placeat sapiente incidunt eligendi quod molestiae recusandae dolorum atque quidem reprehenderit tenetur nobis non ullam dolor ducimus quia. Provident assumenda perspiciatis eos quisquam. Aperiam ullam totam voluptate, excepturi perspiciatis minima officia inventore tempora distinctio dolore, mollitia quas, aspernatur quis suscipit necessitatibus laborum. Explicabo, at! Inventore neque corporis perspiciatis harum labore totam laborum similique molestias ipsam quisquam iure est perferendis placeat deserunt libero quos debitis assumenda architecto dolore nisi omnis hic, accusamus exercitationem veniam. Ab officiis aspernatur, enim, rerum rem officia quidem eaque voluptatibus quia amet aliquid dolores tempore mollitia ad laborum quisquam doloremque facere est. Ut, ab nobis? Ut vel numquam accusantium inventore, blanditiis beatae, dolorum natus harum accusamus voluptatum quibusdam tenetur tempora incidunt? Ratione ab necessitatibus adipisci magni excepturi quis at accusantium consequuntur suscipit dolores, nihil rem dolor velit quasi. Earum veniam illo saepe mollitia aspernatur maxime quaerat iusto, odit, ratione sapiente, rem reiciendis nobis. Atque deserunt vel quas architecto debitis. Autem soluta eligendi assumenda veritatis, voluptatum fuga commodi aliquid perspiciatis id quis explicabo ab tempore quae earum. Iusto consequatur natus, fugiat incidunt ipsa dicta, eos nobis hic facilis alias, perferendis dolores expedita velit. Consequuntur, quam accusamus?</span>
+    </>
+  );
+}
